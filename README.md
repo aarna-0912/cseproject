@@ -17,21 +17,16 @@ The system is designed to be highly modular, allowing a beginner to easily under
 
 # Steps to Install & Run the Project
 1. Clone the Repository (Required for Git/GitHub usage):
-   
-git clone [YOUR-REPOSITORY-URL]
-
-cd DLMS-Project-Name
+   git clone [YOUR-REPOSITORY-URL]
+   cd DLMS-Project-Name
 2. Ensure Python is Installed:
-
-Verify you have Python 3.x installed by running:
-python --version
-
-or 
-
-python3 --version
+   Verify you have Python 3.x installed by running:
+   python --version
+   or 
+   python3 --version
 3. Run the Application:
 4. Execute the main script from the terminal:
-python main.py
+   python main.py
 5. The application will start, load any existing data, and present the main menu.
 
 # Instructions for Testing
