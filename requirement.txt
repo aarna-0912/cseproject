@@ -1,0 +1,6 @@
+# No external libraries required
+# This project uses standard Python libraries:
+# - json
+# - os
+# - datetime
+# - sys
