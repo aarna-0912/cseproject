@@ -39,6 +39,6 @@ Out of Scope (Future Enhancements):
 4. The application should not crash on invalid input (e.g., non-numeric ID, corrupted data file).
 5. Includes try-except blocks in main.py (data loading) and input validation checks (e.g., isdigit() in book_operations.py).
 
-#Maintainability
+# Maintainability
 1. The code must be easy to understand, modify, and extend.
 2. The project is split into four distinct and focused Python files/modules, with clear function definitions and comments.
